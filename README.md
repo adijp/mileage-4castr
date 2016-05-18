@@ -11,6 +11,3 @@ We shall look at several methods from simple to more complex models to increase 
 - K-Means Clustering
 
 The data was obtained from  [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Auto+MPG)
-There were about six rows with incomplete information which I deleted before I converted it to a .csv file. 
-
-I'm going to use Graphlab to help me with the implementation of these models. 
